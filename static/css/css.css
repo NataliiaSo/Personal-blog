@@ -1,0 +1,52 @@
+@import url('blog.css');
+@import url('mainpage.css');
+@import url('header.css');
+@import url('socialmedia.css');
+@import url('footer.css');
+
+h2 { 
+    text-align: center;
+}
+.content {
+    flex: 1;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.post-image {
+    position: relative;
+}
+.post-image img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    font-size: 14px;
+    font-style: italic;
+    color: #555;
+    text-align: center;
+    width: 100%;
+    box-sizing: border-box;
+}
+.blog-posts {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    padding: 20px;
+}
+blockquote {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 28px;
+    color: #333333;
+  }
+figcaption {
+    font-size: 14px;
+    font-style: italic;
+    color: #555;
+    text-align: center;
+    padding: 5px;
+    width: 100%;
+    box-sizing: border-box; 
+}

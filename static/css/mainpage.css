@@ -1,0 +1,52 @@
+.post-card {
+    width: 300px;
+    background-color: #ceafaf;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    transition: transform 0.3s;
+}
+
+.post-card:hover {
+    transform: translateY(-10px);
+}
+
+.post-content {
+    padding: 15px;
+}
+
+.post-content h3 {
+    margin-top: 0;
+    font-size: 18px;
+    color: #333;
+}
+
+.post-content p {
+    font-size: 14px;
+    color: #666;
+    margin: 10px 0;
+}
+
+.read-more-btn {
+    display: inline-block;
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+    margin-top: 10px;
+    font-size: 14px;
+    transition: background-color 0.3s;
+}
+
+.read-more-btn a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.read-more-btn:hover {
+    background-color: #2980b9;
+}
