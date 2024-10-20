@@ -18,7 +18,7 @@ A responsive and accessible personal blog built with a custom design system, lev
 
 - **Homepage**: Displays blog post previews with navigation links (e.g., "About", "Search", "Subscribe").
 - **Blog Post**: Displays individual blog content, including the author's information (name, bio, avatar).
-- **Additional Pages**: Fake pages for "About", "Search", "Subscribe".
+- **Additional Pages**: Fake pages for "About", "Search", and "Subscribe".
 
 ## Components
 
