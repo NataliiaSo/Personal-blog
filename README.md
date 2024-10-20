@@ -4,7 +4,7 @@ A responsive and accessible personal blog built with a custom design system, lev
 
 ## Features
 
-- **Custom Design**: Unique typography, images, buttons, and layouts.
+- **Custom Design**: Unique typography, images, buttons, layouts.
 - **Flexbox and Grid**: Utilizes Flexbox and CSS Grid for modern, responsive layouts.
 - **Multi-Device Web Design**: Fully responsive across mobile, tablet, and desktop.
 - **ARIA and Accessibility**: Accessible design, tested with Axe Chrome extension.
